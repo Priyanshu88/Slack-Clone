@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg" alt="logo" width="200" height="auto" />
+  <img src="https://ubwp.buffalo.edu/happe/wp-content/uploads/sites/92/2019/12/slack_logo.png" alt="logo" width="200" height="auto" />
 
-  <h1>SNAPCHAT with REACT.JS!</h1>
+  <h1>Slack Clone with REACT.JS!</h1>
 
   <p>
-A website like Snapchat which is created using ReactJS, the React-Router is implemented for the different pages, React-Redux has been used as a state management tool. The firebase is used for the authentication and firebase firestore is used as a database. React-webcam is used for capturing the snap, react-countdown-circle-timer is used for setting the time limit and Material-UI icons have been used.
+A website like Slack which is created using ReactJS, the React-Router is implemented for the different pages, React-Redux has been used as a state management tool. The firebase is used for the authentication and firebase firestore is used as a realtime database. Firebase-hooks are being implemented, styled-components are used and Material-UI icons have been used.
   </p>
 
 <!-- Badges -->
@@ -55,29 +55,9 @@ A website like Snapchat which is created using ReactJS, the React-Router is impl
 
 - Application Home page & Demo
 
-<!-- <div align="center">
-<a href="https://slack-clone-2d669.web.app/" target="_blank"><img  src='' alt='image'/></a>
-</div> -->
-
-
-
-
 
 <br />
 
-- Webcam Capture and Preview Page
-
-<div align="center">
-<a href="https://slack-clone-2d669.web.app/" target="_blank"><img  src='' alt='image' width='800'/></a>
-</div>
-
-<br />
-
-- Chat and Chat View Page
-
-<div align="center">
-<a href="https://slack-clone-2d669.web.app/" target="_blank"><img  src='' alt='image' width='800'/></a>
-</div>
 
 ## <a href="https://slack-clone-2d669.web.app/" target="_blank">LIVE DEMO 💥</a>
 
@@ -122,7 +102,10 @@ A website like Snapchat which is created using ReactJS, the React-Router is impl
         </td>
          <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="" width="30" height="30" /></a>
-        </td>                                          
+        </td>  
+        <td>
+<a href="#"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="" width="30" height="30" /></a>
+        </td> 
     </tr>
 </table>
 
@@ -200,7 +183,7 @@ Install dependencies
 Clone the project
 
 ```bash
-git clone https://github.com/Priyanshu88/Snapchat-build.git
+git clone https://github.com/Priyanshu88/Slack-Clone.git
 ```
 
 ```bash
