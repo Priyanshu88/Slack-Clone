@@ -56,6 +56,10 @@ A website like Slack which is created using ReactJS, the React-Router is impleme
 - Application Home page & Demo
 
 
+
+https://user-images.githubusercontent.com/86107841/229289444-01c3c0e1-508e-4918-85c0-7ba80a92c12c.mp4
+
+
 <br />
 
 
@@ -172,7 +176,7 @@ npm install @mui/material @emotion/react @emotion/styled
 
 Install dependencies
 
-<a href="https://github.com/Priyanshu88/Snapchat-build/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
+<a href="https://github.com/Priyanshu88/Slack-Clone/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
 
 <!-- Run Locally -->
 
@@ -187,7 +191,7 @@ git clone https://github.com/Priyanshu88/Slack-Clone.git
 ```
 
 ```bash
-cd Snapchat-build
+cd Slack-Clone
 ```
 
 Install dependencies
