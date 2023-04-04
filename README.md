@@ -144,6 +144,8 @@ To run this project, you will need to add the following config of your project t
 
 ### :gear: Installation
 
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 Install my-project with npm
 
 ```bash
