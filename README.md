@@ -216,8 +216,7 @@ You can start editing the page by modifying `src/app.js`. The page auto-updates 
 
 ### Learn More
 
-This project uses [`react-webcam`](https://github.com/mozmorris/react-webcam) for making the snap, [`react-countdown-circlev-time`](https://github.com/vydimitrov/react-countdown-circle-timer) for countdown on chatview page, also refer [`react-timeago`](https://github.com/nmn/react-timeago), and [`uuidjs`](https://github.com/uuidjs/uuid).
-
+This project uses [`react-spinkit`](https://github.com/KyleAMathews/react-spinkit) for smooth loading, [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks).
 
 <!-- Deployment -->
 
