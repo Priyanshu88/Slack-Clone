@@ -134,8 +134,6 @@ To run this project, you will need to add the following config of your project t
 
 `storageBucket`
 
-`NEXTAUTH_URL`
-
 `messagingSenderId`
 
 `appId`
